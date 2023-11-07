@@ -1,0 +1,3 @@
+langchain
+gpt-engineer
+torch
