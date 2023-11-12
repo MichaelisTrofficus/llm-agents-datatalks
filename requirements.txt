@@ -1,3 +1,4 @@
 langchain
 gpt-engineer
 torch
+openai
