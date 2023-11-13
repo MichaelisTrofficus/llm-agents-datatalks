@@ -2,3 +2,4 @@ langchain
 gpt-engineer
 torch
 openai
+tree-of-thoughts
