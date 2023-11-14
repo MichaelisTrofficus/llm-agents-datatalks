@@ -3,3 +3,9 @@ gpt-engineer
 torch
 openai
 tree-of-thoughts
+arxiv
+tiktoken
+PyPDF2
+requests
+unstructured
+chromadb
